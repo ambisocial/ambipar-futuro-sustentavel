@@ -1,9 +1,9 @@
 ---
-layout: post
 title: "5 Inovações em Sustentabilidade que Estão Redefinindo o Mercado Brasileiro"
-date: 2026-07-07
+date: 2026-07-07 10:32:00 -0300
+categories: [Sustentabilidade, Economia Circular]
+tags: [economia-circular, gestao-ambiental, inovacao, esg]
 author: Mariana Duarte
-tags: ["compensacao-carbono", "amazonia", "redd", "meio-ambiente"]
 ---
 
 # 5 Inovações da a empresa que Estão Redefinindo a Economia Circular no Brasil
